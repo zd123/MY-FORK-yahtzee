@@ -1,4 +1,4 @@
-# yahtzee
+# YO THIS IS ZACKS VERSION OF THIS yahtzee SOLVER 
 A Yahtzee-solving python package and command line tool.
 
 The algorithm yields the mathematically-guaranteed optimal strategy*. That is, it maximizes expected score for a single game of Yahtzee.
